@@ -69,8 +69,6 @@ B. Melihat Analisis:
   2. INPUT_DATA_KARYAWAN
 <img src="Images-/INPUT_DATA_KARYAWAN1.png" alt="INPUT_DATA_KARYAWAN.">
 
-![Gambar 2](../Images/Data_Import.png)
-
 ## Kemampuan yang Ditunjukkan
   1. Excel Technical Skills:
       - Data Management: Validation, Structured Tables, Database Design
